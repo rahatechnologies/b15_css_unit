@@ -1,0 +1,30 @@
+
+.parent{
+    width: 1000px;
+        height: 1000px;
+        background: yellow;
+}
+
+
+.inner{
+    /* relative unit */
+    width: 50%;
+    height: 50%;
+    background: red;
+    /* background-color: red; */
+    /* border: 2px solid black; */
+}
+
+.outer {
+    width: 50%;
+    height: 50%;
+    background: blue;
+}
+
+
+
+/* .parent .outer {
+    width: 20%;
+        height: 20%;
+        background: brown;
+} */
